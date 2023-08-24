@@ -3,12 +3,13 @@ _Welcome!_ I am a Ph.D. student in the Department of Computer Sciences at the
 of the [Security and Privacy Research Group](https://madsp.cs.wisc.edu/), and
 advised by [Prof. Patrick McDaniel](http://patrickmcdaniel.org).
 
-My research focuses on the security and privacy of computer systems. I am mainly
-interested in building more secure, privacy-preserving, and trustworthy systems.
+I am interested in building more secure, privacy-preserving, and trustworthy
+systems. My current research focuses on interest-disclosing mechanisms for
+online advertising.
 
 **🌐 Website:** [https://yohan.beugin.org](https://yohan.beugin.org)\
 **📧 Email:** [yohan@beugin.org](mailto:yohan@beugin.org)\
-**📫 Address:** 1210 W. Dayton St., Room 7382, Madison, WI 53706-1613, USA\
+**📫 Address:** 1210 W. Dayton St., Room 2259, Madison, WI 53706-1613, USA\
 **🎓 Google Scholar:** [Google
 Scholar](https://scholar.google.co.uk/citations?user=VkUDttAAAAAJ)\
 **🔑 Public Key:** [231A 4FD3 ABED
