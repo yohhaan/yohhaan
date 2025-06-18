@@ -4,8 +4,8 @@ of the [Security and Privacy Research Group](https://madsp.cs.wisc.edu/), and
 advised by [Prof. Patrick McDaniel](http://patrickmcdaniel.org).
 
 I am interested in building more secure, privacy-preserving, and trustworthy
-systems. My current research focuses on online tracking and privacy in
-advertising.
+systems. My current research focuses on security of open-source software as 
+well as tracking and privacy in online advertising.
 
 **🌐 Website:** [https://yohan.beugin.org](https://yohan.beugin.org)\
 **📧 Email:** [yohan@beugin.org](mailto:yohan@beugin.org)\
