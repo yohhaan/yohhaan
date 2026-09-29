@@ -1,6 +1,6 @@
-_Welcome!_ I am a Ph.D. Candidate in the Department of Computer Sciences at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/) where I am a member of the [Security and Privacy Research Group](https://madsp.cs.wisc.edu/), and advised by [Prof. Patrick McDaniel](http://patrickmcdaniel.org).
+_Welcome!_ I am a Ph.D. Candidate in the Department of Computer Sciences at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/) where I am a member of the [Security and Privacy Research Group](https://madsp.cs.wisc.edu/). I am advised by [Prof. Patrick McDaniel](http://patrickmcdaniel.org) and I have been the lead graduate student of his research group for two years.
 
-I am interested in building more secure, privacy-preserving, and trustworthy systems. My current research focuses on online advertising, tracking, and privacy as well as the security of open-source software.
+My research interests lie within web privacy, online advertising and tracking, as well as cloud and network security. I combine large-scale empirical measurements with systematic and independent analyses to evaluate privacy and security properties of real-world systems and protect their users. Looking ahead, I plan to continue applying this approach to evaluate new and emerging web technologies, the security of critical open-source projects, and the impact of AI on these ecosystems.
 
 **🌐 Website:** [https://yohan.beugin.org](https://yohan.beugin.org)\
 **📧 Email:** [yohan@beugin.org](mailto:yohan@beugin.org)\
